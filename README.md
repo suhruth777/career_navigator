@@ -73,8 +73,7 @@ the user repeating themselves.
 ## Try it yourself
 
 Full setup instructions, prerequisites, and a walkthrough of all 5
-concepts are in the repo README:
-**[GitHub link — add yours here]**
+concepts are in the repo README
 
 It runs entirely locally via `adk web` — no cloud deployment required to
 try it.
